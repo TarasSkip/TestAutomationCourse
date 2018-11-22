@@ -48,7 +48,7 @@ let i = 95;
  let i = 50, n = 99, s=(i+n);
  console.log(i===50); 
  console.log(n===50); 
- console.log((i+n)===50);
+ console.log(s===50);
 	
 	
 	
