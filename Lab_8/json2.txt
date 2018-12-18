@@ -1,0 +1,1 @@
+{"name":"Taras","secondname":"Skip","rate":"5"}SomeNewString
